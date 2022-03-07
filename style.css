@@ -1,0 +1,30 @@
+body{
+    background-color: #5d7be0;
+    padding: 50px;
+}
+
+form{
+    font-size: 18px;
+}
+
+input{
+    width: 75px;
+}
+
+#rolls li{
+    display: inline-block;
+    padding-right: 22px;
+    padding-left: 22px;
+    font-size: 50px;
+    border: 3px solid rgb(63, 63, 63);
+    background-color: rgb(111, 150, 221);
+}
+
+#rolls{
+    padding: 0px;
+}
+
+div{
+    width: 60%;
+    max-width: 600px;
+}
